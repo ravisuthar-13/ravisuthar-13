@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="ravi_github_banner_v1.png" width="100%" alt="Ravi Suthar Banner"/>
+  <img src="ravi_github_banner_v2.png" width="100%" alt="Ravi Suthar Banner"/>
 </p>
 
 <br>
