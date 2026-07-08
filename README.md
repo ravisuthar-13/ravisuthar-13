@@ -4,14 +4,6 @@
 
 <br>
 
-<h1 align="center">Hi 👋, I'm Ravi Suthar</h1>
-
-<h3 align="center">Data Science Fresher | Python | SQL | Machine Learning | Power BI</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Data+Science+%26+AI+Enthusiast;Machine+Learning+Learner;Building+Real+Portfolio+Projects;Creator+of+RIN+AI+Voice+Assistant" />
-</p>
-
 ---
 
 ## 🧠 About Me
