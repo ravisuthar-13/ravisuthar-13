@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="ravi_github_banner_v1.png" width="100%" alt="Ravi Suthar Banner"/>
+</p>
+
+<br>
+
 <h1 align="center">Hi 👋, I'm Ravi Suthar</h1>
 
 <h3 align="center">Data Science Fresher | Python | SQL | Machine Learning | Power BI</h3>
