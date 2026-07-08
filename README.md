@@ -1,63 +1,88 @@
-# Hi 👋 I'm Ravi Suthar
+<h1 align="center">Hi 👋, I'm Ravi Suthar</h1>
 
-## 🚀 Data Science & AI Enthusiast
+<h3 align="center">Data Science Fresher | Python | SQL | Machine Learning | Power BI</h3>
 
-I'm a Data Science fresher passionate about Machine Learning, Data Analytics, and AI development. I enjoy building real-world projects and continuously learning new technologies.
-
----
-
-### 🌱 Currently Learning
-- Python
-- SQL
-- Machine Learning
-- Power BI
-- Git & GitHub
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Data+Science+%26+AI+Enthusiast;Machine+Learning+Learner;Building+Real+Portfolio+Projects;Creator+of+RIN+AI+Voice+Assistant" />
+</p>
 
 ---
 
-### 💻 Projects
+## 🧠 About Me
 
-- 🌾 Crop Yield Prediction (ML + SQL)
-- 🛒 Ecommerce Sales Analysis
-- 🏠 Home Price Prediction
-- 📊 Customer Shopping Behavior Analysis
-- 🤖 RIN AI Voice Assistant
+I am a Data Science fresher from India, learning and building real-world projects in Data Analytics, Machine Learning, and AI.
 
----
-
-### 🛠 Tech Stack
-
-Python • SQL • Pandas • NumPy • Power BI • HTML • CSS • Git • GitHub
+- 🌱 Currently learning **Python, SQL, Machine Learning, Power BI**
+- 🤖 Building **RIN AI Voice Assistant**
+- 📊 Interested in **Data Analytics, AI, ML, and Automation**
+- 🚀 Goal: Become a skilled Data Analyst / Data Scientist
+- 🌐 Portfolio: **https://ravisuthar-13.github.io/ravi-portfolio/**
 
 ---
 
-### 🌐 Portfolio
+## 🛠️ Tech Stack
 
-https://ravisuthar-13.github.io/ravi-portfolio/
+<p>
+  <img src="https://skillicons.dev/icons?i=python,mysql,html,css,git,github,vscode" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-00D9FF?style=for-the-badge"/>
+</p>
 
 ---
 
-### 📫 Connect with Me
+## 🚀 Featured Projects
 
-LinkedIn:
-https://www.linkedin.com/
+| Project | Description |
+|---|---|
+| 🌾 **Crop Yield Prediction** | Machine Learning + SQL based crop prediction project |
+| 🛒 **Ecommerce Sales Analysis** | Data analysis project for ecommerce sales insights |
+| 🏠 **Home Price Prediction** | Machine Learning project for price prediction |
+| 📊 **Customer Shopping Behavior Analysis** | Customer insights and purchase pattern analysis |
+| 🤖 **RIN AI Voice Assistant** | Personal AI voice assistant built using Python |
 
-GitHub:
-https://github.com/ravisuthar-13
+---
 
-⭐ Thanks for visiting my profile!
+## 🤖 RIN AI Voice Assistant
 
-<!--
-**ravisuthar-13/ravisuthar-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+RIN is my personal AI voice assistant project.  
+It can listen, respond, open apps, answer questions, and will grow step by step with more AI features.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ravisuthar-13&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravisuthar-13&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravisuthar-13&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p>
+  <a href="https://github.com/ravisuthar-13">
+    <img src="https://img.shields.io/badge/GitHub-ravisuthar--13-black?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://ravisuthar-13.github.io/ravi-portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-00D9FF?style=for-the-badge"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ Thanks for visiting my GitHub profile!
+</p>
