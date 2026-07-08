@@ -8,7 +8,9 @@
 
 ## 🧠 About Me
 
-I am a Data Science fresher from India, learning and building real-world projects in Data Analytics, Machine Learning, and AI.
+I am a Data Science Fresher passionate about Machine Learning, Data Analytics, and AI.
+I enjoy building real-world projects and continuously learning new technologies.
+Currently, I'm developing my personal AI Voice Assistant (RIN) while expanding my skills in Python, SQL, and Power BI.
 
 - 🌱 Currently learning **Python, SQL, Machine Learning, Power BI**
 - 🤖 Building **RIN AI Voice Assistant**
